@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FeitosaJP
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 3
 - 📫 How to reach me joaopedro.feitosa@outlook.com
 
 <!---
